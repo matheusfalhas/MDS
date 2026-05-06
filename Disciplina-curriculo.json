@@ -1,0 +1,21 @@
+{
+    "codigo": "ENE0276",
+    "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE",
+    "modalidade": "presencial",
+    "cargaHorariaPresencial": {
+        "teorica": 60,
+        "pratica": 0,
+        "total": 60
+    },
+    "preRequisito": [
+        {
+            "codigo": "ENE0013",
+            "nome": "ALGORITIMO E ESTRUTURA DE DADOS"
+        }
+    ],
+    "unidade": {
+        "codigo": "ENE",
+        "nome": "DPTO ENGENHARIA ELETRICA"
+    },
+    "tipo": "optativa"
+}
