@@ -2,7 +2,16 @@
     "matricula": "242014355",
     "nome": "Matheus Cunha de Freitas",
     "ira": 3.4,
+    "periodoLetivoIngresso": {
+        "ano": 2024,
+        "periodo": 2
+    },
     "curso": [
-        ""
+        {
+            "nome": "ENGENHARIA DE REDES DE COMUNICAÇÃO",
+            "grauAcademico": "bacharelado",
+            "turno": "diurno",
+            "modalidade": "presencial"
+        }
     ]
 }
