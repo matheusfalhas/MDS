@@ -1,3 +1,33 @@
 {
-    
+    "codigo": "01",
+    "vagasOfertadas": 30,
+    "vagasOcupadas": 6,
+    "nivelEnsino": "graduação",
+    "periodoLetivo": {
+        "ano": 2026,
+        "periodo": 1
+    },
+    "disciplina": {
+        "codigo": "ENE0276",
+        "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE",
+        "unidade": {
+            "codigo": "ENE",
+            "nome": "DPTO DE ENGENHARIA ELETRICA"
+        }
+    },
+    "professor": [
+        {
+        "nome": "RICARDO STACIARINI PUTTINI"
+        }
+    ],
+    "horario": [
+        {
+            "dia": "SEG",
+            "hora": "16:00-17:50"
+        },
+        {
+            "dia": "QUA",
+            "hora": "16:00-17:50"
+        }
+    ]
 }

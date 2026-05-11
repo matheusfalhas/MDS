@@ -3,5 +3,12 @@
     "nome": "ENGENHARIA DE REDES DE COMUNICAÇÃO",
     "grauAcademico": "bacharelado",
     "turno": "diurno",
-    "modalidade": "presencial"
+    "modalidade": "presencial",
+    "coordenador": {
+        "nome": "JOAO JOSE COSTA GONDIM"
+    },
+    "unidade": {
+        "codigo": "ENE",
+        "nome": "DPTO DE ENGENHARIA ELETRICA"
+    }
 }

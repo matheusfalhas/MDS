@@ -1,6 +1,27 @@
 {
     "status": "MATRICULADO",
     "prioridade": 2,
-    "motivoIndeferimento:" : null,
-    "horaCriacao": ""
+    "motivoIndeferimento:" : "-",
+    "horaCriacao": "2026-02-05T10:00:00-03:00",
+    "horaAtualizacao": "2026-02-05T10:00:00-03:00",
+    "aluno": {
+        "matricula": "242014355",
+        "nome": "Matheus Cunha de Freitas"
+    },
+    "turma": {
+        "codigo": "01",
+        "periodoLetivo": {
+            "ano": 2026,
+            "periodo": 1
+        },
+        "disciplina": {
+            "codigo": "ENE0276",
+            "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE"
+        },
+        "professor": [
+            {
+            "nome": "RICARDO STACIARINI PUTTINI"
+            }
+        ]
+    }
 }

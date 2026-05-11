@@ -1,0 +1,51 @@
+{
+    "codigo": "03",
+    "cargaHoraria": {
+        "obrigatoriaAulas": 2220,
+        "obrigatoriaOrientacao": 450,
+        "obrigatoriaTotal": 2670,
+        "optativaMinima": 930,
+        "componentesEletivos": 360,
+        "periodoLetivoMaxima": 420,
+        "periodoLetivoMinima": 210
+    },
+    "prazoConclusao": {
+        "minimo": 10,
+        "medio": 10,
+        "maximo": 18
+    },
+    "periodoLetivoVigor": {
+        "ano": 2024,
+        "periodo": 2
+    },
+    "curso":{
+        "codigo": "6351",
+        "nome": "ENGENHARIA DE REDES DE COMUNICAÇÃO",
+        "grauAcademico": "bacharelado",
+        "turno": "diurno",
+        "modalidade": "presencial"
+    },
+    "disciplina": [
+        {
+        "codigo": "ENE0276",
+        "nome": "METODOLOGIA E DESENVOLVIMENTO DE SOFTWARE",
+        "modalidade": "presencial",
+        "cargaHorariaPresencial": {
+            "teorica": 60,
+            "pratica": 0,
+            "total": 60
+        },
+        "preRequisito": [
+            {
+                "codigo": "ENE0013",
+                "nome": "ALGORITIMO E ESTRUTURA DE DADOS"
+            }
+        ],
+        "unidade": {
+            "codigo": "ENE",
+            "nome": "DPTO ENGENHARIA ELETRICA"
+        },
+        "tipo": "optativa"
+        }
+    ]
+}
